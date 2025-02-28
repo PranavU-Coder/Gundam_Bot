@@ -1,4 +1,4 @@
-# Gundam_Bot
+# Gundam_Bot (Guide to ROS2 usage as well)
 Personal experiment to test out using my knowledge of ROS2 and Gazebo (both of which I'm learning)
 
 👋 Hello fellow robotics enjoyer, With this repository I aim to config the files in a way you can setup a similar bot for your own needs 
